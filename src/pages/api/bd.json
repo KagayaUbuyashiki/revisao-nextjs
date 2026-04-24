@@ -1,0 +1,30 @@
+{
+  "clientes": [
+    {
+      "nome": "Daniel Ventura 2",
+      "email": "danielvalmeida91@gmail.com",
+      "cpfcnpj": "12345678900",
+      "sexo": "M",
+      "cep": "36770066",
+      "rua": "Rua Joaquim Peixoto Ramos",
+      "bairro": "Centro",
+      "cidade": "Cataguases",
+      "estado": "MG",
+      "numero": "12",
+      "complemento": "201"
+    },
+    {
+      "nome": "Guilherme Krepke",
+      "email": "guilherme@gmail.com",
+      "cpfcnpj": "12345678101",
+      "sexo": "M",
+      "cep": "36772182",
+      "rua": "Rua Otávio Rocha Ferraz",
+      "bairro": "Paraíso",
+      "cidade": "Cataguases",
+      "estado": "MG",
+      "numero": "401",
+      "complemento": "Casa Rosa"
+    }
+  ]
+}
